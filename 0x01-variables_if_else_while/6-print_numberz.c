@@ -2,9 +2,9 @@
 
 /**
  * main - Prints all single digi numbers of base 10 starting from 0,
- * 	only using putchar and without char variables.
+ *	only using putchar and without char variables.
  *
- * 	Return: Always 0.
+ *	Return: Always 0.
  */
 int main(void)
 {
