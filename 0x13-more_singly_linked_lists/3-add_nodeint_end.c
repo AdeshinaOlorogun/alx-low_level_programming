@@ -1,7 +1,7 @@
 #include "lists.h"
 #include <stdlib.h>
 /**
-  * add_nodeint_end - add node at end of a listint_t list.
+  * add_nodeint_end - add node @ end of listint_t list.
   *
   * @head: head of double pointer
   * @n: int add the list
