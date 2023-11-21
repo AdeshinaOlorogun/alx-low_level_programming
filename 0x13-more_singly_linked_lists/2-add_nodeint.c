@@ -1,10 +1,10 @@
 #include "lists.h"
 #include <stdlib.h>
 /**
-  * add_nodeint - add node at beginning of a listint_t list.
+  * add_nodeint - The add node at beginning of a listint_t list.
   *
-  * @head: head of double pointer
-  * @n: int add the list
+  * @head: head of the double pointer
+  * @n: int add to the list
   * Return: NULL if it failed
   */
 listint_t *add_nodeint(listint_t **head, const int n)
